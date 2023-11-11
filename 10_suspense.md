@@ -135,3 +135,11 @@ Using the **Suspense** tag makes creating things like Skeleton loading screens s
 ![](https://firebasestorage.googleapis.com/v0/b/vue-mastery.appspot.com/o/flamelink%2Fmedia%2F03-suspense.opt.gif?alt=media&token=5d0b0a47-fe62-4997-8aab-751c6c377b8d)
 
 Your skeleton would go into your `<template #fallback>` and your rendered HTML would go into your `<template #default>`. Pretty simple!
+
+### Lesson Resources
+
+##### Source Code:
+
+*   [Vue Skeleton Loading with Suspense](https://medium.com/javascript-in-plain-english/vue-skeleton-loading-screen-using-suspense-components-daily-vue-4-e34d5291cb38)
+    
+*   [Building Skeleton Loading Screens with CSS Properties](https://css-tricks.com/building-skeleton-screens-css-custom-properties/)
